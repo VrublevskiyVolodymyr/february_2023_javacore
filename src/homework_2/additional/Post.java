@@ -14,7 +14,6 @@ public class Post {
 
     public Post() {
     }
-
     public Post(int userId, int id, String title, String body) {
         this.userId = userId;
         this.id = id;

@@ -26,6 +26,5 @@ public class Customer {
         this.age = age;
         this.gender = gender;
 
-
     }
 }

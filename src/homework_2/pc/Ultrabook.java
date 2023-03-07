@@ -29,6 +29,7 @@ public class Ultrabook extends Laptop{
         this.batteryLife = batteryLife;
     }
 
+
     @Override
     public String toString() {
         return "Ultrabook{" +

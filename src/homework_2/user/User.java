@@ -18,6 +18,7 @@ public class User {
     private String website;
     private Company company;
 
+
     public User(int id, String name, String username, String mail,String street, String suite, String city, String zipcode, String lat, String lng, String phone, String website,String nameCompany,String catchPhrase,String bs) {
         this.id = id;
         this.name = name;

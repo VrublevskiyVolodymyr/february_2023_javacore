@@ -18,7 +18,6 @@ public class Comics extends Book{
     public void setArtist(String artist) {
         this.artist = artist;
     }
-
     @Override
     public String toString() {
         return "Comics{" +

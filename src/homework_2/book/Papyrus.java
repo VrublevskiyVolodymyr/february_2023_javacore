@@ -17,7 +17,6 @@ public class Papyrus {
         this.year = year;
         this.size = size;
     }
-
     public String[] getAuthors() {
         return authors;
     }

@@ -18,7 +18,6 @@ public class Magazine extends Book{
     public void setCategory(String category) {
         this.category = category;
     }
-
     @Override
     public String toString() {
         return "Magazine{" +

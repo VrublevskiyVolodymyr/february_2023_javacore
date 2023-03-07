@@ -11,4 +11,5 @@ import lombok.NoArgsConstructor;
 public class Skill {
     private String title;
     private int exp;
+
 }
