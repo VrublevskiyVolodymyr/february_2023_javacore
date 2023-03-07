@@ -5,10 +5,6 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
 
-       Comment comment1 = new Comment(1,2,"jjjjj","mmmm","hhhh");
-        Post post1 = new Post(1,2,"kkk","kkkk");
-        post1.getComment().add(0,comment1);
-
         ArrayList <Post> posts = new ArrayList<>();
         posts.add(new Post(1,1,"sunt aut facere repellat provident occaecati excepturi optio reprehenderit","quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"));
         posts.add(new Post(1,2,"qui est esse","est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"));
@@ -32,6 +28,5 @@ public class Main {
             }
         }
         System.out.println(posts);
-
     }
 }
