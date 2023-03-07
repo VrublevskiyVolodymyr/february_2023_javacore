@@ -15,7 +15,6 @@ public class Address {
     private String zipcode;
     private Geo geo;
 
-
     public Address(String street, String suite, String city, String zipcode, String lat, String lng) {
         this.street = street;
         this.suite = suite;

@@ -28,6 +28,7 @@ public class Book extends Papyrus{
     public void setPages(int pages) {
         this.pages = pages;
     }
+
     @Override
     public String toString() {
         return "Book{" +

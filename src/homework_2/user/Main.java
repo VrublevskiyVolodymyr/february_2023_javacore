@@ -15,6 +15,5 @@ public class Main {
 
         System.out.println(user1);
         System.out.println(user2);
-
     }
 }

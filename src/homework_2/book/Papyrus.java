@@ -10,7 +10,6 @@ public class Papyrus {
 
     public Papyrus() {
     }
-
     public Papyrus(String[] authors, String title, int year, String size) {
         this.authors = authors;
         this.title = title;

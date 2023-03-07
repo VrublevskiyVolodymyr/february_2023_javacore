@@ -29,7 +29,6 @@ public class Workstation extends Laptop{
         this.hasDedicatedGraphicsCard = hasDedicatedGraphicsCard;
     }
 
-
     @Override
     public String toString() {
         return "Workstation{" +

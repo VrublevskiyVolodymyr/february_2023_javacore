@@ -5,7 +5,6 @@ package homework_2.pc;
 //        PC-Laptop- Workstation
 //        Загальна кількість вкористаних класів - 4!
 
-
 public class Main {
     public static void main(String[] args) {
         PC pc = new PC("Intel","ZEVS PC A140", 10.249,"Intel Pentium i3 G620 64-bit 2x2.6 GHz 3 MB SmartCache", "Asus Prime H410M-K","2E KS230 WL Black", "DDR3","Windows 10","HDD 500 GB 5400 rpm");

@@ -11,7 +11,6 @@ public class Laptop extends PC{
         this.screenResolution = screenResolution;
     }
 
-
     public String getScreenResolution() {
         return screenResolution;
     }
