@@ -29,6 +29,7 @@ public class Book extends Papyrus{
         this.pages = pages;
     }
 
+
     @Override
     public String toString() {
         return "Book{" +
